@@ -11,3 +11,6 @@ There's also a GUI for the script built in tkinter. The actual python script for
 
 
 The goal behind this program was to be able to have a map system for assets (hundreds of static stations) that is editable in Microsoft excel, but searchable with python. A significant amount of time was being wasted by technicians manually looking at printed off maps for assets. This program in its entirety takes a job that could possibly take over an hour down to under a couple minutes. The tkinter interface was developed to allow other technicians to use the script without much hassle. 
+
+
+I can not share the finished version of this work due to the nature of my employment.
